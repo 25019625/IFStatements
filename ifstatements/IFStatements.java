@@ -6,7 +6,7 @@ package ifstatements;
 
 /**
  *
- * @author admin
+ * @author 25019625
  */
 public class IFStatements {
 
